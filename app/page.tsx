@@ -20,10 +20,10 @@ export default function Home() {
         <Header relative={false} />
         <div className="container px-5">
           <div className="hero-content">
-            <p className="hero-subtitle">
-  Serving Orange County, Los Angeles, Riverside & San Bernardino Counties
-</p>
-
+      <p className="hero-subtitle">
+        We deliver party fun across Orange County, Los Angeles County,
+        Riverside County & San Bernardino County!
+      </p>
             <h2 className="hero-title">BOUNCE <br /> INTO FUN!</h2>
             <p className="hero-description">
               It was popularised in the 1960s with the release of Letraset sheets
