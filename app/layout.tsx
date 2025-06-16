@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     "event rentals Orange County",
   ].join(","),
   metadataBase: new URL("https://anjomazone.com"),
-
+  alternates: { canonical: "https://anjomazone.com" },
   openGraph: {
     title: "Anjoma Zone Party Rentals",
     description:
