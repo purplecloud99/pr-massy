@@ -24,7 +24,7 @@ export default function Home() {
               We deliver party fun across Orange County, Los Angeles County,
               Riverside County &amp; San Bernardino County!
             </p>
-            <h2 className="hero-title">BOUNCE <br /> INTO FUN!</h2>
+            <h2 className="hero-title">Orange County Bounce House <h2 className="hero-title">BOUNCE <br /> INTO FUN!</h2> Water Slide Rentals!</h2>
             <p className="hero-description">
               Experience top-rated bounce house, water slide &amp; tent rentals with same-day delivery across Orange County, Los Angeles County, Riverside County &amp; San Bernardino County!
             </p>
