@@ -60,7 +60,59 @@ export default function RootLayout({
         <RouteChangeLoader />
         {children}
         <BackTop />
-      </body>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PartyEquipmentRental",
+  "name": "Anjoma Zone Party Rental",
+  "image": "https://www.anjomazone.com/images/anjoma-cover.webp",
+  "logo": "https://www.anjomazone.com/images/logo.png",
+  "description": "Anjoma Zone Party Rental delivers inflatable bounce houses, water slides, and party equipment rentals across Orange County and nearby cities. Known for fun, clean setups and friendly service, we bring the party to you.",
+  "url": "https://www.anjomazone.com",
+  "telephone": "+1-951-498-0377",
+  "email": "contact@anjomazone.com",
+  "priceRange": "$99 - $499",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "23412 Moulton Pkwy Suite 140",
+    "addressLocality": "Laguna Hills",
+    "addressRegion": "CA",
+    "postalCode": "92653",
+    "addressCountry": "US"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": ["Orange County","Los Angeles County","Riverside County","San Bernardino County","South Bay"]
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.6125,
+    "longitude": -117.7144
+  },
+  "sameAs": [
+    "https://youtube.com/@anjomazone?si=Cp-ceTTsbtc-DNe-",
+    "https://www.instagram.com/anjomazone/",
+    "https://x.com/anjomazone/",
+    "https://www.facebook.com/anjomazone/",
+    "https://www.tiktok.com/@anjomazone",
+    "https://g.co/kgs/gfmyNGU"
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "06:00",
+      "closes": "22:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Saturday","Sunday"],
+      "opens": "05:00",
+      "closes": "22:00"
+    }
+  ]
+}
+</script>      </body>
     </html>
   );
 }
