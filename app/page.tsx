@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <>
       <section className="hero">
-        <img loading="lazy" src="/images/hero-bg.png" alt="Hero Background" className="hero-bg" />
+        <img loading="lazy" src="/images/hero-bg.png" alt="Orange County Bounce House alt="Hero Background" Water Slide Rentals by Anjoma Zone" className="hero-bg" />
         <Header relative={false} />
         <div className="container px-5">
           <div className="hero-content">
