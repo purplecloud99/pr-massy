@@ -25,11 +25,9 @@ export default function Home() {
         Riverside County & San Bernardino County!
       </p>
             <h2 className="hero-title">BOUNCE <br /> INTO FUN!</h2>
-            <p className="hero-description">
-              It was popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop publishing...
-            </p>
-            <Link href="#" className="hero-btn tilted">Book Now</Link>
+          <p className="hero-description">
+            Experience top-rated bounce house, water slide &amp; tent rentals with same-day delivery across Orange County, Los Angeles County, Riverside County &amp; San Bernardino County!
+          </p>            <Link href="#" className="hero-btn tilted">Book Now</Link>
           </div>
         </div>
         <div className="wave-divider">
