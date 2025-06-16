@@ -155,11 +155,8 @@ export default function Home() {
                 Frequently Asked <br /> Questions
               </h1>
               <div className="opacity-70 md:w-[70%]">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore non
-                alias ut asperiores quibusdam minus fuga minima modi placeat nobis
-                consequatur.
-              </div>
-              <div>
+                Got questions? We’ve got answers. From delivery windows to setup and safety—here’s what people ask most about Anjoma Zone Party Rentals.
+              </div>              <div>
                 <button className="btn">Contact Us</button>
               </div>
               <div>
@@ -184,9 +181,8 @@ export default function Home() {
                 Ready to make your <br /> Event Amazing?
               </h1>
               <div className="opacity-70 md:w-[70%]">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore non alias ut asperiores quibusdam minus fuga minima modi placeat nobis consequatur.
-              </div>
-              <div className="mt-auto">
+                Got questions? We’ve got answers. From delivery windows to setup and safety—here’s what people ask most about Anjoma Zone Party Rentals.
+              </div>              <div className="mt-auto">
                 <img loading="lazy" src="/images/baloon-image.png" alt="baloon image" className="w-full" />
               </div>
             </div>
