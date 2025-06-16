@@ -29,7 +29,12 @@ export const metadata: Metadata = {
   ].join(","),
   metadataBase: new URL("https://anjomazone.com"),
   openGraph: {
-    title: "Anjoma Zone Party Rentals",
+  twitter: {
+    card: "summary_large_image",
+    site: "@anjomazone",
+    creator: "@anjomazone",
+    images: ["https://anjomazone.com/images/hero-bg.png"]
+  },    title: "Anjoma Zone Party Rentals",
     description: "Premier inflatable & bounce house rentals across Orange County & surrounding areas.",
     url: "https://anjomazone.com",
     siteName: "Anjoma Zone Party Rentals",
