@@ -115,8 +115,11 @@ export default function Home() {
       <section className="bg-[var(--primary)] text-white">
         <div className="overlay py-10">
           <div className="container flex flex-col gap-2 text-center">
+      <section className="bg-[var(--primary)] text-white">
+        <div className="overlay py-10">
+          <div className="container flex flex-col gap-2 text-center">
             <h3 className="">OUR MISSION</h3>
-            <h1 className="font-bold text-4xl">We Deliver Fun & Safety</h1>
+            <h1 className="font-bold text-4xl">We Deliver Fun &amp; Safety</h1>
             <p className="mx-auto max-w-2xl">
               To provide clean, reliable, and entertaining party rental experiences—
               delivering smiles, safety, and seamless service to your doorstep, every time.
