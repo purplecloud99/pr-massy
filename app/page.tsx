@@ -47,7 +47,7 @@ export default function Home() {
               Whether you&apos;re hosting a birthday party, school event, or backyard celebration, our inflatable rentals — including bounce houses, water slides, combo jumpers, and obstacle courses — are guaranteed to bring the fun and make your party unforgettable.
             </p>
             <p>
-              We proudly deliver to all of <strong>Orange County</strong> and most cities across <strong>Los Angeles, San Bernardino, and Riverside County</strong>, bringing the party straight to your doorstep!
+              We proudly deliver party rentals across <strong>Orange County</strong>, <strong>Los Angeles County</strong>, <strong>Riverside County</strong> We proudly deliver to all of <strong>Orange County</strong> and most cities across <strong>Los Angeles, San Bernardino, and Riverside County</strong>amp; <strong>San Bernardino County</strong>, bringing the party straight to your doorstep!
             </p>
           </div>
         </div>
