@@ -1,0 +1,56 @@
+.map-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(135deg, #7fcbfd, #b5e2ff);
+}
+
+.terrain {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25'%3E%3Cdefs%3E%3Cpattern id='terrain' width='80' height='80' patternUnits='userSpaceOnUse'%3E%3Cpath d='M0,40 Q20,20 40,40 T80,40' fill='none' stroke='%2373c86b' stroke-width='30' opacity='0.5'/%3E%3Cpath d='M0,60 Q30,30 60,60 T120,60' fill='none' stroke='%2362a85a' stroke-width='25' opacity='0.4'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23terrain)'/%3E%3C/svg%3E");
+}
+
+.county-btn {
+  position: absolute;
+  background-color: rgba(255, 120, 120, 0.8);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.2s;
+  font-weight: bold;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.county-btn:hover {
+  transform: scale(1.05);
+  background-color: rgba(255, 100, 100, 0.9);
+}
+
+#truck {
+  position: absolute;
+  bottom: 80px;
+  left: 580px;
+  width: 40px;
+  height: 30px;
+  transform-origin: center;
+}
+
+.path {
+  position: absolute;
+  stroke: #555;
+  stroke-width: 3px;
+  stroke-dasharray: 6;
+  fill: none;
+  opacity: 0;
+}
+
+.smoke-particle {
+  position: absolute;
+  background-color: rgba(200, 200, 200, 0.6);
+  border-radius: 50%;
+  transform: scale(0);
+}
