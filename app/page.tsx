@@ -20,7 +20,10 @@ export default function Home() {
         <Header relative={false} />
         <div className="container px-5">
           <div className="hero-content">
-            <p className="hero-subtitle">Bring the fun into doorstep</p>
+            <p className="hero-subtitle">
+  Serving Orange County, Los Angeles, Riverside & San Bernardino Counties
+</p>
+
             <h2 className="hero-title">BOUNCE <br /> INTO FUN!</h2>
             <p className="hero-description">
               It was popularised in the 1960s with the release of Letraset sheets
